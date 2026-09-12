@@ -1,16 +1,24 @@
-## Hi there 👋
+## Heyyy !
+**I'm Skue, a belgian (kinda) programmer (like, hum, just for fun) !**
 
-<!--
-**skueee/skueee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Random things about me:
+OS : EndeavourOS and Arch (BTW)
+
+IDE : Zed
+
+
+Languages : Python, JS/TS, GDScript
+
+Other things that aren't considered as programming languages : HTML, JSON, YAML, Markdown, Dockerfile, Bash...
+
+Things that I also (try) to do : 3D (Blender), Pixel Art (Open Source Aseprite/Libresprite), UI Design (Figma)
+
+
+
+### Contact :
+
+skue@outlook.com
+
+![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=65164&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
