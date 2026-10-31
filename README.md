@@ -1,5 +1,5 @@
 ## Heyyy !
-**I'm Skue, a belgian (kinda) programmer (like, hum, just for fun) !**
+**I'm Skue, a belgian programmer !**
 
 
 
@@ -8,10 +8,9 @@ OS : EndeavourOS and Arch (BTW)
 
 IDE : Zed
 
+Languages : Python, JS/TS, GDScript, Go (a bit)
 
-Languages : Python, JS/TS, GDScript
-
-Other things that aren't considered as programming languages : HTML, JSON, YAML, Markdown, Dockerfile, Bash...
+Other things that could not be considered as programming languages by some people and idk : HTML, JSON, YAML, Markdown, Dockerfile, Bash...
 
 Things that I also (try) to do : 3D (Blender), Pixel Art (Open Source Aseprite/Libresprite), UI Design (Figma)
 
