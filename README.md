@@ -18,6 +18,6 @@ Things that I also (try) to do : 3D (Blender), Pixel Art (Open Source Aseprite/L
 
 ### Contact :
 
-[email](mailto:me@skue.com)
+[email](mailto:me@skue.dev)
 
 ![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=65164&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
